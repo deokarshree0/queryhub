@@ -10,4 +10,3 @@
 ## Notes
 - Database connection is in `common/db.php`.
 - Theme toggle is in the top navbar.
-- Old plaintext passwords can still log in, but new signups are hashed.
