@@ -26,7 +26,7 @@ QueryHub is a modern Q&A web application built using PHP and MySQL.
 - HTML, CSS, JavaScript
 
 ## 📸 Preview
-![Uploading home(dark mode).png…]()
+![Uploading home(dark mode).png…]
 
 
 
