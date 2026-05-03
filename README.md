@@ -1,12 +1,26 @@
 # QueryHub
 
-## Run steps
-1. Copy the project folder into XAMPP `htdocs`.
-2. Start **Apache** and **MySQL**.
-3. Open `phpMyAdmin` and import `queryhub_schema.sql`.
-4. Make sure the database name is `queryhub`.
-5. Open `http://localhost/discuss/` in your browser.
+QueryHub is a modern Q&A web application built using PHP and MySQL.
 
-## Notes
-- Database connection is in `common/db.php`.
-- Theme toggle is in the top navbar.
+## 🚀 Features
+- User authentication (Login / Signup)
+- Ask and answer questions
+- Category-based filtering
+- Search functionality
+- Dark/Light theme toggle
+- Secure backend (prepared statements)
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository
+2. Place inside XAMPP `htdocs`
+3. Create database `queryhub`
+4. Import `queryhub_schema.sql`
+5. Configure `common/db.php`
+6. Run:
+   http://localhost/discuss
+
+## 🛠 Tech Stack
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
