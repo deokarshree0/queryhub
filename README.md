@@ -50,3 +50,9 @@ QueryHub is a modern Q&A web application built using PHP and MySQL.
 <img width="1366" height="768" alt="Ask a Question(dark mode)" src="https://github.com/user-attachments/assets/c129686e-f7f1-4b42-b2ae-eca86ef1f75d" />
 <br>
 <img width="1366" height="768" alt="Ask a Question(light mode)" src="https://github.com/user-attachments/assets/4012e19f-7c7b-4491-962e-c14afea3fbf6" />
+
+### My Quetions Page
+
+<img width="1366" height="768" alt="My Quetions(dark mode)" src="https://github.com/user-attachments/assets/4c38e67b-34f8-4482-adbe-a3600c7c4870" />
+<br>
+<img width="1366" height="768" alt="My Quetions(light mode)" src="https://github.com/user-attachments/assets/c8bd9e33-504c-4840-8bde-42cc32c0a633" />
