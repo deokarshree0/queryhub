@@ -1,6 +1,6 @@
-# QueryHub
+# Discuss
 
-QueryHub is a modern Q&A web application built using PHP and MySQL.
+Discuss is a modern Q&A web application built using PHP and MySQL.
 
 ## 🚀 Features
 - User authentication (Login / Signup)
